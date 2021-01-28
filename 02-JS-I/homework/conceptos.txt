@@ -1,0 +1,16 @@
+     Valores booleanos (true, false)
+
+1. Variables: Son espacios en la memoria que se disponen para guardar información y se les debe asignar un nombre como referencia y puede almacenar diferentes tipos de datos, como números, cadenas de caracteres, entre otros.
+
+2. Strings: Son cadenas de caracteres, teniendo en cuenta que los caracteres son simbolos, como las letras, los números y demás que son usados para la comunicación por medio de textos o escritos. Para referirme a los Strings en JS los reconozco porque los encierro entre comillas.
+
+3. Funciones: Son expresiones escritas en código, que tienen la finalidad de actuar para realizar operaciones y ofrecen una respuesta, un cálculo, un procedimiento, con las funciones puedo dar solución a muchos problemas o satisfacer necesidades.
+Los nombres que le asigno tienden a ser de acciones o verbos y estas funciones pueden recibir argumentos externos cuando se requiere hacer uso de ellos.
+
+	a. Argumentos: Estos son referencias de datos que llegan desde el exterior de la función y llegan dentro de paréntesis, significa que el resultado que espero de la función requiere hacer uso de dicho argumento para lograr su objetivo final. Una función puede recibir 1 o más argumentos.
+
+	b. return: Es la expresión que utilizo desde el interior de la función para regresar o devolver un resultado cuando desde otro punto requiero de su funcionalidad.
+
+4. Declaraciones if: La uso para preguntar si se cumplen las condiciones dadas, ejecutar determinada tarea y si no se cumple, hara algo diferente o tomará otra dirección en la secuencia del código que estoy escribiendo.
+
+5. Valores booleanos: Sólo son dos y puede ser true que significa verdadero o false que significa falso. Por ejemplo un valor de estos es lo que recibo como respuesta cuando evalúo una condición con una declaración if.

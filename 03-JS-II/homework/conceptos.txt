@@ -1,0 +1,15 @@
+
+    for
+    &&, ||, !
+
+Conceptos
+
+1. for: Este statement o declaración en español, me permite ejecutar la misma acción cierta cantidad de veces, es por ese motivo que debe contener una condición que indica en qué momento salir del ciclo que se repite, además la condición debe ir cambiando para que en algún momento pueda terminar.
+
+Existen operadores para comparar expresiones booleanas, las cuales puedo llamar operandos. Dichos operadores son:
+
+1. &&: En inglés(AND) y en españor(Y). Cuando se comparan dos expresiones y operandos, con este operador, significa que para que la comparación devuelva true o verdadero, ambas expresiones deben ser verdaderas; de lo contrario, si al menos un operador es negativo, el retorno será false o falso.
+
+2. ||: En Inglés(OR) y en español(O). Al comparar dos operandos con este operador, mínimo uno debe ser verdadero para que retorne el valor verdadero; sólo retornará false, si los dos operandos son falsos.
+
+3. !: En Inglés(NOT) y en español(NO). Este operando niega cualquier expresión, cambiando su valor booleano por su contrario, es decir, que si es verdadero lo convierte en falso y viceversa.

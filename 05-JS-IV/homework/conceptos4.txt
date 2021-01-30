@@ -8,3 +8,5 @@
 	* Bucle `for…in`: Este ciclo me permite recorrer todos las propiedades de un objeto.
 
 	* Notación de puntos vs notación de corchetes: La notación de puntos es más cómoda para escribir y la de corchetes la podré requerir en un momento específico.
+
+	¡¡¡WilmarDeMelquisedecLisbet666!!!

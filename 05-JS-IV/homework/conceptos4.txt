@@ -1,0 +1,10 @@
+
+	* Objetos: Puede representar cualquier cosa en formato digital basado en la vida real incluso, dicho objeto tiene propiedades y métodos que los caracterizan, puedo crear cuantos objetos necesite. El acceso a esas propiedades y métodos me permite hacer cambios o cálculos que requiera el objeto o simplemente obtenerlos. 
+
+	* Propiedades: Están representadas con keys o llaves y value o valores, cada key debe tener un valor, separada la llave de su valor con dos puntos(:) y la separación entre propiedades es con comas(,). Estas propiedades abarca cualquier tipo de datos cadenas, enteros, arreglos, funciones, booleanos o incluso otros objetos (aunque viedo el lenguaje en general todo acá son objetos hasta cada tipo de dato).
+
+	* Métodos: Son funciones que puede ejecutar un objeto para obtener resultados requeridos. En sí, siempre realizan una acción. Los métodos hacen parte de las propiedades de los objetos, un objeto puede invocar sus métodos en cualquier momento.
+
+	* Bucle `for…in`: Este ciclo me permite recorrer todos las propiedades de un objeto.
+
+	* Notación de puntos vs notación de corchetes: La notación de puntos es más cómoda para escribir y la de corchetes la podré requerir en un momento específico.

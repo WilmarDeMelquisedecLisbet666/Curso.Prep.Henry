@@ -2,3 +2,5 @@
 Conceptos
 
 Arrays: Conjunto de elemetos dentro de un mismo contenedor, puede estar vacío incluso, así que, el contenedor es el que se denomina array, y sus elementos pueden ser de cualquier tipo de datos.
+
+¡¡¡WilmarDeMelquisedecLisbet666!!!

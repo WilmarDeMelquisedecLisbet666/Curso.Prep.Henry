@@ -1,0 +1,5 @@
+Conceptos
+
+    prototype: Es una clase que contienen métodos que los objetos que instancien subclases que la hereden pueden hacer uso de ellos.
+
+    Constructors (de Clases): Es la plantilla que permite crear objetos con determinadas propiedades y métodos, cada vez que un nuevo objeto la instancie.

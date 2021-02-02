@@ -1,0 +1,4 @@
+Conceptos
+
+* Funciones Callback: Son funciones que se pasan como parametro dentro de otra función
+ 

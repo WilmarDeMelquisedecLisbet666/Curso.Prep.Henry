@@ -1,0 +1,34 @@
+body{
+	background-size: cover;
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/71xLtid96AL._AC_SX355_.jpg");
+}
+h1{
+	color: purple;
+}
+
+img{
+	width: 400px;
+}
+
+#thirdDiv{
+	background: yellow;
+	border: 2px solid blue;
+	height: 600px;
+	display: flex;
+	margin-left: 20%;
+	padding: 50px;
+	width: 500px;
+	
+}
+
+#spanId{
+	color: green;
+	font-size: 18px;
+	margin: 50px;
+}
+
+.divClass{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

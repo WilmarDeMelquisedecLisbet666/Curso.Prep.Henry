@@ -1,0 +1,35 @@
+
+body{
+	background: black;
+	font-size: 20px;
+	margin: 10%;
+}
+section{
+	align-items: center;
+	color: yellow;
+	display: flex;
+	flex-direction: column;
+}
+article{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+.titulos{
+	color: green;
+}
+#datos{
+	border: 2px solid white;
+	display: flex;
+	flex-direction: row;
+}
+.rojo{
+	color: red;
+}
+#imagenPerfil{
+	height: 45mm;
+	width: 35mm;
+}
+.flexible{
+	display: flex;
+}

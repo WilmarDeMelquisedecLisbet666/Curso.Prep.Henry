@@ -2,11 +2,12 @@
 body{
 	background: black;
 	font-size: 20px;
-	margin: 10%;
+	margin-left: 25%;
+	margin-right: 20%;
 }
 section{
 	align-items: center;
-	color: yellow;
+	color: gray;
 	display: flex;
 	flex-direction: column;
 }
@@ -17,14 +18,19 @@ article{
 }
 .titulos{
 	color: green;
+	font-size: 30px;
+	align-self: center;
 }
 #datos{
-	border: 2px solid white;
+	border: 0.5mm solid white;
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
 }
 .rojo{
-	color: red;
+	color: #EFEBE1;
+	font-size: 80%;
 }
 #imagenPerfil{
 	height: 45mm;
@@ -32,4 +38,12 @@ article{
 }
 .flexible{
 	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	margin: 25px;
+	align-items: center;
+}
+p{
+	text-align: center;
 }
